@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ba7aad8bc7a5a023",
+    "id": "a99062283e881d2a",
     "type": "split",
     "children": [
       {
-        "id": "dbe9deb304a8a2ad",
+        "id": "b3395cfa924a8193",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1900865842c87c",
+            "id": "87e279483641b3ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P_Archive/To Do  December.md",
+                "file": "Spaces/Weekly 'To Do' List(s)/Weekly_01.01.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do  December"
+              "title": "Weekly_01.01.2025"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7cc6720cb4c4505",
+    "id": "82edea8f6305b1a7",
     "type": "split",
     "children": [
       {
-        "id": "6945b3357dbd995f",
+        "id": "4bde545df221bf35",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6364ee53229d06",
+            "id": "e737295a15abc09d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b649d421048180e0",
+            "id": "a7cb45fd3eda148f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "bf71ed573993f080",
+            "id": "b4d87d038b718c2a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "1d51a186a2ade99b",
+    "id": "aa268bd40990c1d5",
     "type": "split",
     "children": [
       {
-        "id": "677a4650c25f25fb",
+        "id": "91146fbb41ef9ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc96ef7616458f5",
+            "id": "9e0f74d74fc13f97",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P_Archive/To Do  December.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Do  December"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d7c071be2616f4ae",
+            "id": "81992a23904e89e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P_Archive/To Do  December.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Do  December"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "96b9f87ce59b66af",
+            "id": "56df6e14eb178718",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +136,17 @@
             }
           },
           {
-            "id": "1d7736844c8fed82",
+            "id": "15f8f978534a42be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "P_Archive/To Do  December.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do  December"
+              "title": "Outline"
             }
           }
         ]
@@ -165,57 +163,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "aa1900865842c87c",
-  "lastOpenFiles": [
-    "P_Archive/Financial  2023.md",
-    "P_Archive/Recipe  Christmas 2019.md",
-    "P_Archive/To Buy  09.01.2022.md",
-    "P_Archive/Bills  08.01.2019.md",
-    "#P_General/List Things to AVOID.md",
-    "P_List(s)/List Food (LA).md",
-    "P_List(s)/List Book List.md",
-    "P_Archive/To Do  December.md",
-    "P_Archive/To Buy  2023.md",
-    "P_Goals/Goals  Life II.md",
-    "P_Goals/Goals  Life.md",
-    "P_Goals/Goals  2023 (Personal).md",
-    "P_Goals/Goals  2021 (Personal).md",
-    "P_Goals/Goals  2013.md",
-    "P_Goals/Ch. 13 - Debt Repayment.md",
-    "P_FilmMaking/General Notes.md",
-    "P_Archive/_resources/Recipe__Christmas_2019.resources/Sphynx_Square_Icon_XXSmall.jpg",
-    "P_Archive/_resources/Bills__08.01.2019.resources/Sphynx_Square_Icon_XXSmall.jpg",
-    "P_Cooking/List Groceries - 02.10.2023.md",
-    "Welcome.md",
-    "P_Cooking/Food List (Plant Paradox).md",
-    "P_Travel/_resources",
-    "P_Travel/Travel Notes (2018).md",
-    "P_Travel/Travel Notes (2016).md",
-    "P_Travel/Travel Notes (2015).md",
-    "P_Travel/Travel Notes (2014).md",
-    "P_Travel/Travel Miles & Hotel Points.md",
-    "P_Travel/Travel Bucket List.md",
-    "P_Travel",
-    "P_Quotes/_resources",
-    "P_Quotes/Quote  _General.md",
-    "P_Quotes",
-    "P_LosAngeles/_resources",
-    "P_LosAngeles",
-    "P_List(s)/_resources",
-    "P_List(s)",
-    "P_Home/_resources/Discussion_wAttorney__09.22.2022.resources/Altudo.png",
-    "P_Home/_resources/Discussion_wAccountant__07.15_+_07.17.resources/Altudo.png",
-    "P_Home/_resources/Discussion_wAttorney__09.22.2022.resources",
-    "P_Home/_resources/Discussion_wAccountant__07.15_+_07.17.resources",
-    "P_Goals/_resources/Goals__Life_II.resources/Sphynx_Square_Icon_XXSmall.jpg",
-    "P_Goals/_resources/Goals__Life.resources/Sphynx_Square_Icon_XXSmall.jpg",
-    "P_Goals/_resources/Goals__2019.resources/Sphynx_Square_Icon_XXSmall.jpg",
-    "P_Fashion/_resources/Lifestyle_Cologne.resources/Yves Saint Laurent - LHomme.jpg",
-    "P_Fashion/_resources/Lifestyle_Cologne.resources/Issey-Miyake-Leau-D-Issey-Miyake-Homme.jpg",
-    "P_Fashion/_resources/Lifestyle_Cologne.resources/Gucci - Guilty.jpg"
-  ]
+  "active": "87e279483641b3ff",
+  "lastOpenFiles": []
 }
