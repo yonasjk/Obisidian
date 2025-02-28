@@ -9,7 +9,7 @@ Current Tasks:
 	- GRE: complete prep books (x3)
 	- GRE: complete 5 lb testing book
 	- GRE: Set test date
-	- Course: Real Estate
+	- Course: Real Estate (yep!)
 2) Family / Home
 	~~- Visitation (Dec. 27th, 28th, & 29th)~~
 	~~- Rent Vehicle (per visitation)~~
