@@ -5,7 +5,7 @@
 Current Tasks:
 
 1) Education / Prep
-	- GRE: complete YouTube (x2) reviews  
+	- GRE: complete YouTube (x2) reviews 
 	- GRE: complete prep books (x3)
 	- GRE: complete 5 lb testing book
 	- GRE: Set test date
