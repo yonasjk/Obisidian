@@ -5,7 +5,7 @@
 | ---------------------- | ---------------------- | -------------- | --- | ------------------------------------------ | -------- | --- |
 | ## PERSONAL PRIORITIES |                        |                |     | ## FINANCIAL PRIORITIES                    |          |     |
 |                        | _List of priorities_   |                |     | _List of prioritized savings goals._       | _Amount_ |     |
-| 1                      | **Nayel Keflemariam**  | **2022+**      | 1   | Vehicle Purchase                           | 40K      |     |
+| 1                      | **Nayel Keflemariam**  | **2022+**      | 1   | ~~Vehicle Purchase~~                       | ~~40K~~  |     |
 | 2                      | **Professional (Job)** | **225**        | 2   | Emergency Fund _Savings_                   | 60K      |     |
 | 3                      | Trading / Investing    | 25             | 3   | Family _Savings_                           | 100K     |     |
 | 4                      | Real Estate / MLO      | Cert(s) + Home | 4   | Home _Savings_                             | 50/yr    |     |
