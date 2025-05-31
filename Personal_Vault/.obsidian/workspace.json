@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P_Archive/To Do  December.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do  December"
+              "title": "Welcome"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,6 +172,8 @@
   },
   "active": "aa1900865842c87c",
   "lastOpenFiles": [
+    "P_Archive/To Do  December.md",
+    "Welcome.md",
     "P_Archive/To Buy  09.01.2022.md",
     "P_Archive/To Buy  Current.md",
     "P_Archive/To Do  10.01.2020 (October).md",
@@ -183,7 +186,6 @@
     "#P_General/List Things to AVOID.md",
     "P_List(s)/List Food (LA).md",
     "P_List(s)/List Book List.md",
-    "P_Archive/To Do  December.md",
     "P_Goals/Goals  Life II.md",
     "P_Goals/Goals  Life.md",
     "P_Goals/Goals  2023 (Personal).md",
@@ -194,7 +196,6 @@
     "P_Archive/_resources/Recipe__Christmas_2019.resources/Sphynx_Square_Icon_XXSmall.jpg",
     "P_Archive/_resources/Bills__08.01.2019.resources/Sphynx_Square_Icon_XXSmall.jpg",
     "P_Cooking/List Groceries - 02.10.2023.md",
-    "Welcome.md",
     "P_Cooking/Food List (Plant Paradox).md",
     "P_Travel/_resources",
     "P_Travel/Travel Notes (2018).md",

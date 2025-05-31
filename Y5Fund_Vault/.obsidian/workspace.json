@@ -11,10 +11,14 @@
             "id": "6f95669feee13536",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -153,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,6 +168,7 @@
   },
   "active": "6f95669feee13536",
   "lastOpenFiles": [
+    "Welcome.md",
     "Y5_TechStack/_resources",
     "Y5_TaskLists/_resources",
     "Y5_Goals/_resources"
