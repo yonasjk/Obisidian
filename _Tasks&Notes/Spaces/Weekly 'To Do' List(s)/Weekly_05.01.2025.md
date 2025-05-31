@@ -45,7 +45,7 @@ Current Tasks:
 		- Bedroom Set
 		- Living Room (Upright (Ezra) chairs, living room table)
 		- Plants / Flowers
-		- 
+			- 
 	- Identify open bills
 		- Identify/Pay IRS back taxes
 		- Identify/Pay parking tickets
@@ -113,20 +113,20 @@ Financial Approach
 		- Home: 60K down; 15K closing; 25K upgrades :: 100K
 'To-Buy' List	
 	- Buy@Target
-		- [X] Floor protector
-		- [X] Socks (White)
-		- [X] Sandwich bags
+		- [ ] 2' Binder
+		- [ ] Socks (White)
+		- [ ] Dish Soap
 	- Buy@Amazon
-		- [X] Hair Clipper
-		- [X] Skin lotion
-		- [X] Laundry Detergent(s)
-		- [X] Wooden Hangars - Pants
 		- [X] (Toys) Cars
 		- [X] (Toys) Legos  
+		- [ ] Scooter
+		- [ ] Bicycle
+		- [ ] Olive Oil (Italian)
 	- Buy@IKEA
-		- [ ] Dining Table
+		- [ ] Dining Table (Bistro)
 		- [X] Coffee Table
 		- [ ] Record Shelves
+		- [ ] High (Ezra) Chairs
 		
 **********************************************************************
 
