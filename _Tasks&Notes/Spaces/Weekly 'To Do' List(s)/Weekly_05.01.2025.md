@@ -113,15 +113,16 @@ Financial Approach
 		- Home: 60K down; 15K closing; 25K upgrades :: 100K
 'To-Buy' List	
 	- Buy@Target
-		- [ ] 2' Binder
-		- [ ] Socks (White)
-		- [ ] Dish Soap
+		- [X] 2' Binder
+		- [X] Socks (White)
+		- [X] Dish Soap
 	- Buy@Amazon
 		- [X] (Toys) Cars
 		- [X] (Toys) Legos  
-		- [ ] Scooter
+		- [X] Scooter
 		- [ ] Bicycle
 		- [ ] Olive Oil (Italian)
+		- [ ] Potty Chair
 	- Buy@IKEA
 		- [ ] Dining Table (Bistro)
 		- [X] Coffee Table
