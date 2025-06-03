@@ -90,8 +90,8 @@ Current Tasks:
 		- ~~Groceries~~
 		- ~~Activities~~
 **********************************************************************
-Financial Approach
-	- Payment Schedule (Prioritized)
+7) Financial Approach
+	1) Payment Schedule (Prioritized)
 		- [X] ~~Payment to Public Storage ($400 - *04/01*)~~
 		- [X] ~~Payment to Alta (6K - *04/27*)~~
 		- [X] ~~Payment to Public Storage ($400 - *05/03*)~~
@@ -106,28 +106,29 @@ Financial Approach
 		- [ ] Payment to Mom (8K <-> 7K)
 		- [ ] Payment to Tony (1.5K)
 		- [ ] Payment to Mom (7K)
-	- Savings Approach (Prioritized) 
+	2) Savings Approach (Prioritized) 
 		- Home: Finalize (Alta Waverly) rent obligation :: 40K
 		- Safety: 6 months of living expenses :: 60K
 		- NayEl: Savings & Education :: 1K/mnth
 		- Home: 60K down; 15K closing; 25K upgrades :: 100K
-'To-Buy' List	
-	- Buy@Target
+8) 'To-Buy' List	
+	1) Buy@Target
 		- [X] 2' Binder
 		- [X] Socks (White)
 		- [X] Dish Soap
-	- Buy@Amazon
+	2) Buy@Amazon
 		- [X] (Toys) Cars
 		- [X] (Toys) Legos  
 		- [X] Scooter
 		- [ ] Bicycle
 		- [ ] Olive Oil (Italian)
 		- [ ] Potty Chair
-	- Buy@IKEA
+	3) Buy@IKEA
 		- [ ] Dining Table (Bistro)
 		- [X] Coffee Table
 		- [ ] Record Shelves
 		- [ ] High (Ezra) Chairs
+		- [ ] Flower Pots
 		
 **********************************************************************
 
