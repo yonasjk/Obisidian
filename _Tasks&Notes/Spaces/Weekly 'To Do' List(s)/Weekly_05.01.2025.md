@@ -116,16 +116,21 @@ Current Tasks:
 		- [X] 2' Binder
 		- [X] Socks (White)
 		- [X] Dish Soap
+		- [ ] Bathroom Mats
 	2) Buy@Amazon
 		- [X] (Toys) Cars
 		- [X] (Toys) Legos  
 		- [X] Scooter
-		- [ ] Bicycle
 		- [ ] Olive Oil (Italian)
 		- [ ] Potty Chair
-	3) Buy@IKEA
+		- [ ] Dryer Sheets
+		- [ ] Eye Patch
+		- [ ] Bicycle 
+	3) Buy@Home
+		- [x] Coffee Table
+		- [ ] Sofa (Custom Sofa Co.)
+		- [ ] Living Room Carpet
 		- [ ] Dining Table (Bistro)
-		- [X] Coffee Table
 		- [ ] Record Shelves
 		- [ ] High (Ezra) Chairs
 		- [ ] Flower Pots
