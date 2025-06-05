@@ -121,7 +121,7 @@ Current Tasks:
 		- [X] (Toys) Cars
 		- [X] (Toys) Legos  
 		- [X] Scooter
-		- [ ] Olive Oil (Italian)
+		- [x] Olive Oil (Italian)
 		- [ ] Potty Chair
 		- [ ] Dryer Sheets
 		- [ ] Eye Patch
